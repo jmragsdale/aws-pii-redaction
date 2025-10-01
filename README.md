@@ -65,7 +65,7 @@ aws s3 cp s3://pii-output-bucket/test-document-redacted.pdf ./
 **Original:** Customer: John Smith, SSN: 123-45-6789  
 **Redacted:** Customer: [NAME], SSN: [SSN]
 
-## 💼 Resume Talking Points
+## 💼 Talking Points
 
 - Automated PII detection processing 100K+ documents monthly
 - Achieved 99%+ accuracy using AWS Comprehend ML
